@@ -17,7 +17,6 @@ shinyUI(   fluidPage(
     wellPanel(
       h4("Details"),
       HTML("<p> Github Repository <a href='https://github.com/AmgadAbdallah/Data-Science-Captsone-Project/' target='_blank'>https://github.com/AmgadAbdallah/Data-Science-Captsone-Project/</a></p>"),
-      HTML("<p> Slide Deck Presentation  <a href='http://rpubs.com/enrique1790/444617' target='_blank'>http://rpubs.com/enrique1790/444617</a></p>"),
       h4("Author:"),
       p("Amgad Abdallah")
     )
